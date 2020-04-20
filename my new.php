@@ -1,4 +1,4 @@
 <?php
-echo "Connected successfully";
-echo "habib"; 
+echo Connected successfully;
+echo habib; 
 ?>
